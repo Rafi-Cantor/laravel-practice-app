@@ -9,7 +9,7 @@
 2. Configure the `.env` file with your database credentials:
 
     ```dotenv
-    DB_CONNECTION=mysql      # Or your preferred database
+    DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=your_db_name
@@ -21,14 +21,14 @@
 
 Run migrations to set up your database tables:
 
- ```bash
+ ```
  php artisan migrate
-    ```
+ ```
 
 ## start server
 
 Run migrations to set up your database tables:
 
- ```bash
+ ```
  php artisan migrate
-    ```
+ ```
