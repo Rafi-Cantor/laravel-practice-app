@@ -19,15 +19,11 @@
 
 ## Database Setup
 
-Run migrations to set up your database tables:
-
  ```
  php artisan migrate
  ```
 
 ## start server
-
-Run migrations to set up your database tables:
 
  ```
  php artisan migrate
