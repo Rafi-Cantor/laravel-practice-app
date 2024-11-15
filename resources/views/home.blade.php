@@ -5,7 +5,6 @@
     <title>Home123</title>
 </head>
 <body>
-    <p>Congrats you are logged in</p>
     <form action="/logout" method="POST">
         @csrf
         <button>Log out</button>
