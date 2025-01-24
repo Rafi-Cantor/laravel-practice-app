@@ -26,5 +26,5 @@
 ## start server
 
  ```
- php artisan migrate
+ php artisan serve
  ```
